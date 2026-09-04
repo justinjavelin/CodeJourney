@@ -1,2 +1,2 @@
 # CodeJourney
-Justin's Journey Learning Code
+# This repository serves as a demonstration of my personal code progress in Python.
